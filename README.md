@@ -23,3 +23,20 @@ ANYWAY, again, as you go through stuff you are gonna need guidance and help on u
 
 These are the OG commands for getting help, more seasoned individuals use it, while it is not bad to use it, we need to understand newer generations just don't work the same way as older ones. We are sadly the ADHD generation, filled with impatience and subway surfer videos. We need to come up with stuff that helps the newer generations, keep the Linux Legacy, empowering people since whenever Linus made the Kernel. 
 
+On top of the commands above, I recommend the following:
+- `wikiman` this downloads wikis locally so you can check them out on your terminal: https://github.com/filiparag/wikiman
+- `TLDR` stands for "Too long, didnt read", so a brief version for commands, the one I use is this one: https://github.com/tealdeer-rs/tealdeer
+- `bat` great for making things more colorful and easier for people coming from other O.Ss https://github.com/sharkdp/bat
+- `bat` scripts, which further enhance stuff :D
+
+Don't go online and immediately install them, try with the basic ones, then you can start adding as you go. I don't want to give you more information since the whole point is learning by exploring. 
+
+Don't forget:
+- You are not expected to memorize all Linux commands, learn how to get to them
+- This is more of a journey rather than just swapping to a different os for fun. Once you start making things your own, I hope you get the feeling that your computer, is YOURS.
+- Don't fry your brain overcomplicating things, actually, Linux will (almost) always follow the principle KISS (Keep it Stupid Simple), search for information online when you can, ask in forums, discords, channels, other githubs, etc. Even ask an AI if you are into that. (Do not put personal info on a AI plz)
+
+If you like games I recommend taking the game approach to Linux, a great example is using 
+https://overthewire.org/wargames/bandit/ 
+
+A game where you need to understand the terminal more and more to go to the next level. 
