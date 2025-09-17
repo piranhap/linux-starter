@@ -16,5 +16,10 @@ Make it fun for yourself, at the end of the day you are reading this cause somet
 
 As you embrace it, I hope you come up to the Terminal at some point, it is fun I promise, `cmatrix` and `cowsay` or the legendary `neofetch` are commands that everyone has run in their terminal at least once. I hope. Anyway, as you embrace it, do not get too impatient, but also don't overwork yourself, this computer you set up, works for you, it enhances you, don't let it become your boss! Also don't become too dependent from it.
 ANYWAY, again, as you go through stuff you are gonna need guidance and help on using stuff, well that is where we use all of the help commands we usually use. These are but not limited to: 
+
 - `man` - Manual pages
-- 
+- `apropos` - not even sure what this is, you probably should `man apropos` in your terminal
+- `whatis`
+
+These are the OG commands for getting help, more seasoned individuals use it, while it is not bad to use it, we need to understand newer generations just don't work the same way as older ones. We are sadly the ADHD generation, filled with impatience and subway surfer videos. We need to come up with stuff that helps the newer generations, keep the Linux Legacy, empowering people since whenever Linus made the Kernel. 
+
