@@ -12,3 +12,4 @@ This will download an executable, execute it, next next next next and install.
 
 ## VMWare 
 Painful but useful, truly a pain to get the executable but once you get it, you are good. 
+Used locally for the LCC class. So if you are in the class, good for you. If not, go figure out, 
